@@ -3,5 +3,5 @@
 
 | Lab | Code | Date |
 | -- | -------- | ----------- |
-|Lab Task |------| 11-02-2024 |
+|Lab Task | Lab_Task_1.ipynb| 11-02-2024 |
 
